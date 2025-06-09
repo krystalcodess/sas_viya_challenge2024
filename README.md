@@ -49,4 +49,4 @@ This Jupyter Notebook contains the code for a machine learning solution develope
 ![image](https://github.com/user-attachments/assets/8fcffb26-500b-4494-9ee8-11a3e09a683d)
 
 
-This notebook demonstrates a complete machine learning pipeline, from data exploration and visualization to preprocessing, model training, and prediction, tailored for the SAS Viya for Learners Challenge 2024.
+This notebook demonstrates a complete machine learning pipeline, from data exploration and visualization to preprocessing, model training, and prediction for the SAS Viya for Learners Challenge 2024.
